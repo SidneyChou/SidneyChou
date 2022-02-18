@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidneyChou
 - 👀 I’m interested in data science and now learning it
-- 📫 Contact me on minngchou@gmail.com
+- 📫 Contact me at minngchou@gmail.com
 
 <!---
 SidneyChou/SidneyChou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
